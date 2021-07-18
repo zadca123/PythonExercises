@@ -1,6 +1,6 @@
 # +TITLE: PythonExercises
 * PythonExercises
-** TODO Progress [24/535]
+** TODO Progress [25/534]
 + [X] Zadania 1-10
 + [X] Zadanie 1
 + [X] Zadanie 2
@@ -27,7 +27,7 @@
 + [-] Zadanie 23
 + [ ] Zadanie 24
 + [X] Zadanie 25
-+ [-] Zadanie 26
++ [X] Zadanie 26
 + [ ] Zadanie 27
 + [ ] Zadanie 28
 + [ ] Zadanie 29
